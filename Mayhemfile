@@ -1,0 +1,5 @@
+project: go-unarr
+target: go-unarr
+
+cmds:
+  - cmd: /unarr @@ .
